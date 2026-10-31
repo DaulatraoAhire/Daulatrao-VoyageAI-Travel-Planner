@@ -1,0 +1,28 @@
+# Backend
+fastapi
+uvicorn
+sqlalchemy
+
+# Authentication
+passlib
+bcrypt
+python-jose
+python-multipart
+
+# Frontend
+streamlit
+
+# Data Processing
+pandas
+
+# Agentic AI
+langgraph
+
+# Gemini AI
+google-genai
+
+# Environment Variables
+python-dotenv
+
+# API Requests
+requests
